@@ -6,9 +6,11 @@ This script is to prerocess the genomic data in MS format for CNN classification
 
 ## Help
 The C code can be compiled by the command:
+
 ``gcc Extract.c -o ms2txt -lm``
 
 Then, the in-tool help will be printed by using command:
+
 ``./ms2txt -H``
 
 ```
