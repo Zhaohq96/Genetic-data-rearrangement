@@ -32,7 +32,7 @@ Required flag:
 		9: Column-decreasing-minor-allele-frequency-with-bit-flipping
 		10: Column-decreasing-hamming-distance
 		11: Column-adjacent-max-correlation
-		11: Column-adjacent-max-correlation-on-different-sides
+		12: Column-adjacent-max-correlation-on-different-sides
 	-b: rearrangement algorithm that will be executed secondly (int), it requires one of the following values
 		0: Original-no-sorting
 		1: Row-decreasing-hamming-weight
@@ -46,7 +46,7 @@ Required flag:
 		9: Column-decreasing-minor-allele-frequency-with-bit-flipping
 		10: Column-decreasing-hamming-distance
 		11: Column-adjacent-max-correlation
-		11: Column-adjacent-max-correlation-on-different-sides
+		12: Column-adjacent-max-correlation-on-different-sides
 	-h: number of samples (int)
 	-w: number of SNPs to be extracted (int)
 ```
